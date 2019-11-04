@@ -1,0 +1,22 @@
+.box1{
+    padding: 15%;
+    border: 5px solid black;
+    text-align: justify;
+}
+.box5{
+    padding: 15%;
+    border: 5px solid black;
+    text-align: justify;
+}
+.box9{
+    padding: 15%;
+    border: 5px solid black;
+    text-align: justify;
+}
+#image2{
+    width: 20px;
+    height: 20px;
+    margin: 0;
+    padding: 0;
+
+}
